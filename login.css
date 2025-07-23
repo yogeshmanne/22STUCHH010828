@@ -2,7 +2,7 @@
     background-color:blanchedalmond;
     font-family: "Roboto";
     color:black;
-    font-size:34px;
+    font-size:55px;
     padding:0px;
     background-size:cover;
     text-align:center;
@@ -12,8 +12,24 @@
 
 .header{
     font-family: "Roboto";
-    color:bisque;
+    color:rgb(48, 36, 22);
     font-size:21px;
+    padding-left:10px;
 
 }
 
+.sub-header{
+    font-family: "Roboto";
+    color:rgb(48, 36, 22);
+    font-size:21px;
+    padding-left:10px;
+
+}
+
+.password{
+    font-family: "Roboto";
+    color:rgb(48, 36, 22);
+    font-size:21px;
+    padding-left:10px;
+
+}
